@@ -1,0 +1,90 @@
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-style: bold;
+}
+
+.button{
+	display: block;
+	width: 100%;
+	border: none;
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	text-align: center;
+}
+h1{
+	color: blue;
+	font-family: verdana;
+	text-align: center;
+	
+	
+}
+#info{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 5px;
+	padding-right: 30px;
+	padding-bottom: 5px;
+	padding-left: 80px;	
+}
+.info{
+	font-size: 20px;	
+	padding-top: 5px;
+	padding-right: 150px;
+	padding-bottom: 5px;	
+	padding-left: 150px;
+}
+
+#places{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 5px;
+	padding-right: 30px;
+	padding-bottom: 5px;
+	padding-left: 80px;	
+}
+
+.places{
+	font-size: 20px;
+	padding-top: 5px;
+	padding-right: 150px;
+	padding-bottom: 5px;	
+	padding-left: 150px;
+}
+
+#hotels{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 5px;
+	padding-right: 30px;
+	padding-bottom: 5px;
+	padding-left: 80px;	
+}
+.hotels{
+	font-size: 20px;
+	padding-top: 5px;
+	padding-right: 150px;
+	padding-bottom: 5px;	
+	padding-left: 150px;
+}
+
+#visittime{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 5px;
+	padding-right: 30px;
+	padding-bottom: 5px;
+	padding-left: 80px;	
+}
+.visittime{
+	font-size: 20px;
+	padding-top: 5px;
+	padding-right: 150px;
+	padding-bottom: 5px;	
+	padding-left: 150px;
+}
